@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martín Karkovich</h1>
-<h2 align="center">About me<h2>
-<p align="center" style="font-size: 18px">Jr. developer, big Ruby on Rails and backend development enthusiast, looking to expand my knowledge. Currently studying a Software Developer career.</p>
+<h3 align="center">About me<h3>
+<p align="center">Jr. developer, big Ruby on Rails and backend development enthusiast, looking to expand my knowledge. Currently studying a Software Developer career.</p>
 	<p align="center" style="font-size: 18px">Linkedin: <a href="https://www.linkedin.com/in/martinkarkovich/">https://www.linkedin.com/in/martinkarkovich/</p>
 
 
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 
 <table height="400px" align="center">
   <tr>
@@ -46,15 +46,23 @@
         <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50px" height="50px" /> </a>
       </p>    
     </td>
-  </tr>
+  </tr>	
 </table>
 
-<div>
+<h3 align="center">GitHub Stats</h3>
+<table align="center">
+<tr>
+<td  width="50%" height="50%">  
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinkarkovich&show_icons=true&locale=en&layout=compact" alt="martinkarkovich" />
-  </p>
-  
-  <p align="center">&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=martinkarkovich&show_icons=true&locale=en" alt="martinkarkovich" />
   </p>
-</div>
+	</td>
+<td>
+  <p align="center">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinkarkovich&show_icons=true&locale=en&layout=compact" alt="martinkarkovich" />
+  </p>
+</td>
+
+</tr>
+</table>
+
