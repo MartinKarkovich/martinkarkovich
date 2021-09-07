@@ -7,7 +7,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 
-<table height="400px">
+<table height="400px" align="center">
   <tr>
     <td width="50%" height="50%">
       <h3 align="center">Strong knowledge</h3>
