@@ -1,0 +1,49 @@
+.wrapper {
+  display: grid;
+  grid-gap: 0.6rem;
+  grid-template-columns: repeat(auto-fill, minmax(40%, 1fr));
+  background-color: #fff;
+  color: #444;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border-radius: 0.4rem;
+  padding: 1.25rem;
+  font-size: 1rem;
+}
+
+.top-left {
+  background-color: darkgreen;
+}
+
+.top-right {
+  background-color: darkblue;
+}
+
+.bottom-left {
+  background-color: darkred;
+}
+
+.bottom-right {
+  background-color: darkcyan;
+}
+
+.box p {
+  display: flex;
+}
+
+.box img {
+  width: 50px;
+  height: 50px;
+  padding: 2px;
+}
+
+.github-stats {
+  display: flex;
+  justify-content: center;
+}
